@@ -1,4 +1,7 @@
-This is my github repo for the Kaggle Competition Google QUEST
+# Google QUEST Q&A Labeling
+## Improving automated understanding of complex question answer content
+
+This is my github repo for the Kaggle Competition https://www.kaggle.com/c/google-quest-challenge
 
 Follows my notes, most of the work is in the notebooks folder.
 
